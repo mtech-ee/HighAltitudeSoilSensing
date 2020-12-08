@@ -1,0 +1,29 @@
+ULTIBOARD DRILL REPORT
+
+Design: HAST_PCB_v3
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                    LAMINATION
+HAST_PCB_v3 - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.0236    PTH     19
+   2   0.1250    PTH      8
+   3   0.0100    PTH      4
+   4   0.0240    PTH      4
+   5   0.0394    PTH     58
+   6   0.1378    PTH      1
+   7   0.0550    PTH      6
+   8   0.0984    PTH      4
+   9   0.0350    PTH     12
+  10   0.0392    PTH      4

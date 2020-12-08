@@ -1,0 +1,16 @@
+Ultiboard Information Export File
+
+Design Name  : HAST_PCB_1 - Bill of materials
+Report Date  : 8 July 2020
+Report Time  : 14:49
+--------------------------------------------------------------------------------
+
+VALUE        #    REFDES        FOOTPRINT       
+
+1kOhm        8    RRX1,RRX2,RTX1,RTX2,RTX3,RTX4,RTX5,RTX6 RESC2012X70N    
+1x4 Pinheader 4    SENSOR1,SENSOR2,SENSOR3,SENSOR4 HDR1X4          
+1x6 pinheader 1    SDCARD_ADAPTER HDR1X6          
+3.3kOhm      4    SENSOR1_R,SENSOR2_R,SENSOR3_R,SENSOR4_R RESC2012X70N    
+PC817X OPTOCOUPLER 2    U3,U9         PC817 Optoisolater
+RockBlock Naked Mk2 1    U2            RockBlock Mk2   
+RocketScream 1    U1            Mini Ultra Pro v3 (RocketScream)
